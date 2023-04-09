@@ -7,3 +7,6 @@ node_modules/
 build/
 doc/*.txt
 doc/**/*.txt
+package-lock.json
+yarn.lock
+yarn.error
